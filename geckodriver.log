@@ -1,0 +1,422 @@
+1664702506413	geckodriver	INFO	Listening on 127.0.0.1:50281
+1664702509453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50282" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileGuKVeP"
+1664702510091	Marionette	INFO	Marionette enabled
+1664702510098	Marionette	INFO	Listening on port 50287
+WebDriver BiDi listening on ws://127.0.0.1:50282
+1664702510762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileGuKVeP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50282/devtools/browser/690cd9b7-f06d-4b6f-ada0-c32441fd7924
+[2022-10-02T09:21:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:21:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:21:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T09:21:54Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1664702537229	Marionette	INFO	Stopped listening on port 50287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664741556452	geckodriver	INFO	Listening on 127.0.0.1:51208
+1664741559481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51209" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile7KPZN3"
+1664741559992	Marionette	INFO	Marionette enabled
+1664741559998	Marionette	INFO	Listening on port 51214
+WebDriver BiDi listening on ws://127.0.0.1:51209
+1664741560729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile7KPZN3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51209/devtools/browser/e20989fb-e12f-49a6-adb9-2686144250c6
+[2022-10-02T20:12:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T20:12:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T20:12:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-02T20:12:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1664741581661	Marionette	INFO	Stopped listening on port 51214
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664793985286	geckodriver	INFO	Listening on 127.0.0.1:49962
+1664793988328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49963" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilef2Npbp"
+1664793988810	Marionette	INFO	Marionette enabled
+1664793988815	Marionette	INFO	Listening on port 49968
+WebDriver BiDi listening on ws://127.0.0.1:49963
+1664793988937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilef2Npbp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49963/devtools/browser/14068a5a-3b50-4cce-bf64-0d59b2e6af6a
+1664794013473	Marionette	INFO	Stopped listening on port 49968
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664794962218	geckodriver	INFO	Listening on 127.0.0.1:50382
+1664794965326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50383" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofiler652kR"
+1664794965779	Marionette	INFO	Marionette enabled
+1664794965784	Marionette	INFO	Listening on port 50392
+WebDriver BiDi listening on ws://127.0.0.1:50383
+1664794965901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofiler652kR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50383/devtools/browser/9c3a9298-f7cf-4e1b-ba12-ff6ae525200f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664794996128	Marionette	INFO	Stopped listening on port 50392
+1664902013657	geckodriver	INFO	Listening on 127.0.0.1:54576
+1664902016709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54577" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileAZKRMw"
+1664902017078	Marionette	INFO	Marionette enabled
+1664902017082	Marionette	INFO	Listening on port 54582
+WebDriver BiDi listening on ws://127.0.0.1:54577
+1664902017360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileAZKRMw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54577/devtools/browser/41fc2901-e844-4ecf-aa91-0560ee5ab446
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902031232	Marionette	INFO	Stopped listening on port 54582
+1664902058538	geckodriver	INFO	Listening on 127.0.0.1:54632
+1664902061622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54633" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezk3cir"
+1664902062024	Marionette	INFO	Marionette enabled
+1664902062029	Marionette	INFO	Listening on port 54639
+WebDriver BiDi listening on ws://127.0.0.1:54633
+1664902062260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezk3cir\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54633/devtools/browser/a3bf12be-6239-48c7-9374-ada7198a7e1d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902071412	Marionette	INFO	Stopped listening on port 54639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664902111696	geckodriver	INFO	Listening on 127.0.0.1:54698
+1664902114764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54699" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileoHclDJ"
+1664902115126	Marionette	INFO	Marionette enabled
+1664902115132	Marionette	INFO	Listening on port 54704
+WebDriver BiDi listening on ws://127.0.0.1:54699
+1664902115399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileoHclDJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54699/devtools/browser/6acf1452-cf68-4f73-a810-ac3a4a7dc45b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902170765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/FfRQa39nZAvr1dE-0tAG9JrhPraJGrBbwHLzQGJT38Q.js line 2 > eval line 806 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902525488	Marionette	INFO	Stopped listening on port 54704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+g on ws://127.0.0.1:54834
+1664902350684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileWlnm4b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54834/devtools/browser/c531c6a4-6253-4592-b844-9b988e2efb0e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.error: "Unable to find target with innerWindowId:4294967299"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664902584665	Marionette	INFO	Stopped listening on port 54839
+1664902653814	geckodriver	INFO	Listening on 127.0.0.1:55004
+1664902656874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55005" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilecKm1xY"
+1664902657267	Marionette	INFO	Marionette enabled
+1664902657273	Marionette	INFO	Listening on port 55010
+WebDriver BiDi listening on ws://127.0.0.1:55005
+1664902657526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilecKm1xY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55005/devtools/browser/8f0a6b8f-3267-41ac-ba56-0563f2a2d7bc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902712514	geckodriver	INFO	Listening on 127.0.0.1:55064
+1664902715585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55065" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileEpAOUW"
+1664902715906	Marionette	INFO	Marionette enabled
+1664902715911	Marionette	INFO	Listening on port 55071
+WebDriver BiDi listening on ws://127.0.0.1:55065
+1664902716156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileEpAOUW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55065/devtools/browser/69a280d0-7cc1-4063-a6ac-5511239c0e1f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902775868	geckodriver	INFO	Listening on 127.0.0.1:55125
+1664902778944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55126" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileeDyn9h"
+1664902779273	Marionette	INFO	Marionette enabled
+1664902779277	Marionette	INFO	Listening on port 55132
+WebDriver BiDi listening on ws://127.0.0.1:55126
+1664902779514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileeDyn9h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55126/devtools/browser/b720fcda-6c92-499c-99ea-7a82b6f763d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902881025	geckodriver	INFO	Listening on 127.0.0.1:55209
+1664902884094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55210" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileZ1qJUi"
+1664902884386	Marionette	INFO	Marionette enabled
+1664902884390	Marionette	INFO	Listening on port 55215
+WebDriver BiDi listening on ws://127.0.0.1:55210
+1664902884645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileZ1qJUi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55210/devtools/browser/a89b0f9d-2bb1-4c01-ba9c-f79a7fc372cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902923932	geckodriver	INFO	Listening on 127.0.0.1:55773
+1664902927002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55774" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilenD148d"
+1664902927374	Marionette	INFO	Marionette enabled
+1664902927378	Marionette	INFO	Listening on port 55780
+WebDriver BiDi listening on ws://127.0.0.1:55774
+1664902927619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilenD148d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55774/devtools/browser/21cf1520-2b5a-43a3-863c-3bfaf89b2032
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902949753	Marionette	INFO	Stopped listening on port 55780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664902961853	geckodriver	INFO	Listening on 127.0.0.1:55832
+1664902964902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55833" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileN6aPNE"
+1664902965239	Marionette	INFO	Marionette enabled
+1664902965244	Marionette	INFO	Listening on port 55838
+WebDriver BiDi listening on ws://127.0.0.1:55833
+1664902965492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileN6aPNE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55833/devtools/browser/d2600623-07f8-499b-9f27-7d64f8d238a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664902976747	Marionette	INFO	Stopped listening on port 55838
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664903002240	geckodriver	INFO	Listening on 127.0.0.1:55889
+1664903005322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55890" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileEzqX1B"
+1664903005623	Marionette	INFO	Marionette enabled
+1664903005627	Marionette	INFO	Listening on port 55896
+WebDriver BiDi listening on ws://127.0.0.1:55890
+1664903005965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileEzqX1B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55890/devtools/browser/79b3247b-5f5b-46db-9644-f923b91ef7f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664903038939	Marionette	INFO	Stopped listening on port 55896
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664903543689	geckodriver	INFO	Listening on 127.0.0.1:56308
+1664903546764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56309" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilerNWcEq"
+1664903547127	Marionette	INFO	Marionette enabled
+1664903547132	Marionette	INFO	Listening on port 56314
+WebDriver BiDi listening on ws://127.0.0.1:56309
+1664903547372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilerNWcEq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56309/devtools/browser/952e28f3-a913-4d65-b4f1-4208cdba968e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664903572816	Marionette	INFO	Stopped listening on port 56314
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664903633267	geckodriver	INFO	Listening on 127.0.0.1:56380
+1664903636334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56381" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileIcsEvp"
+1664903636681	Marionette	INFO	Marionette enabled
+1664903636685	Marionette	INFO	Listening on port 56386
+WebDriver BiDi listening on ws://127.0.0.1:56381
+1664903636928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileIcsEvp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56381/devtools/browser/5167a7fc-6893-4990-8b02-5599d8296b35
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664904458199	Marionette	INFO	Stopped listening on port 56386
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56682" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezP84Fa"
+1664904076816	Marionette	INFO	Marionette enabled
+1664904076820	Marionette	INFO	Listening on port 56691
+WebDriver BiDi listening on ws://127.0.0.1:56682
+1664904077068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezP84Fa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56682/devtools/browser/e50be29b-22c5-4f85-a0d3-6727abe3b579
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664904101491	Marionette	INFO	Stopped listening on port 56691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664904167329	geckodriver	INFO	Listening on 127.0.0.1:56768
+1664904170377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56769" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilerCHNOb"
+1664904170707	Marionette	INFO	Marionette enabled
+1664904170711	Marionette	INFO	Listening on port 56774
+WebDriver BiDi listening on ws://127.0.0.1:56769
+1664904170969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilerCHNOb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56769/devtools/browser/b028e4dc-8ba1-4e60-a572-fefe6d07d9e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664904195589	Marionette	INFO	Stopped listening on port 56774
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664904210791	geckodriver	INFO	Listening on 127.0.0.1:56827
+1664904213840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56828" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileMBFHQ2"
+1664904214131	Marionette	INFO	Marionette enabled
+1664904214136	Marionette	INFO	Listening on port 56834
+WebDriver BiDi listening on ws://127.0.0.1:56828
+1664904214386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileMBFHQ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56828/devtools/browser/4fa423af-90f4-464c-96e2-e6132b5f96ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664904233419	Marionette	INFO	Stopped listening on port 56834
+1664904416256	geckodriver	INFO	Listening on 127.0.0.1:56934
+1664904419327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56935" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileQwXPRc"
+1664904419641	Marionette	INFO	Marionette enabled
+1664904419647	Marionette	INFO	Listening on port 56940
+WebDriver BiDi listening on ws://127.0.0.1:56935
+1664904419896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileQwXPRc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56935/devtools/browser/a1cc9355-a902-44ce-aae2-2a4d914ede4c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664904444715	Marionette	INFO	Stopped listening on port 56940
+1664913522248	geckodriver	INFO	Listening on 127.0.0.1:61106
+1664913525286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61107" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile1egX0h"
+1664913525800	Marionette	INFO	Marionette enabled
+1664913525808	Marionette	INFO	Listening on port 61115
+WebDriver BiDi listening on ws://127.0.0.1:61107
+1664913525926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile1egX0h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61107/devtools/browser/fc6a456c-bc9c-465b-b82e-33ffc9395fd6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1664913545570	Marionette	INFO	Stopped listening on port 61115
+1665440510924	geckodriver	INFO	Listening on 127.0.0.1:53733
+1665440513987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53734" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilelF7udx"
+1665440514449	Marionette	INFO	Marionette enabled
+1665440514455	Marionette	INFO	Listening on port 53742
+WebDriver BiDi listening on ws://127.0.0.1:53734
+1665440514592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilelF7udx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53734/devtools/browser/fece8f79-b1ed-4863-b660-85f62248c50e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1665440530922	Marionette	INFO	Stopped listening on port 53742
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665763262705	geckodriver	INFO	Listening on 127.0.0.1:53995
+1665763265749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53996" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileUwqbjr"
+1665763266265	Marionette	INFO	Marionette enabled
+1665763266272	Marionette	INFO	Listening on port 54002
+WebDriver BiDi listening on ws://127.0.0.1:53996
+1665763266815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileUwqbjr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53996/devtools/browser/e70f8512-f37a-4bfa-a72f-42aca48ec001
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1665763289538	Marionette	INFO	Stopped listening on port 54002
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665820360766	geckodriver	INFO	Listening on 127.0.0.1:53465
+1665820363821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53466" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilefyMvkG"
+1665820364350	Marionette	INFO	Marionette enabled
+1665820364356	Marionette	INFO	Listening on port 53471
+WebDriver BiDi listening on ws://127.0.0.1:53466
+1665820365002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilefyMvkG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53466/devtools/browser/1f4244bb-8aee-4b20-ab46-4c6217501083
+1665820381814	Marionette	INFO	Stopped listening on port 53471
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665820519465	geckodriver	INFO	Listening on 127.0.0.1:53732
+1665820522533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53733" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileKwXwmh"
+1665820522929	Marionette	INFO	Marionette enabled
+1665820522935	Marionette	INFO	Listening on port 53738
+WebDriver BiDi listening on ws://127.0.0.1:53733
+1665820523211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileKwXwmh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53733/devtools/browser/f2ffae8c-659f-4487-a240-dae078976d05
+JavaScript error: , line 0: uncaught exception: Object
+1665820568870	Marionette	INFO	Stopped listening on port 53738
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665820575998	geckodriver	INFO	Listening on 127.0.0.1:53846
+1665820579023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53847" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileOK1e5P"
+1665820579485	Marionette	INFO	Marionette enabled
+1665820579490	Marionette	INFO	Listening on port 53854
+WebDriver BiDi listening on ws://127.0.0.1:53847
+1665820579631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileOK1e5P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53847/devtools/browser/1972ceb8-a1f1-4843-9c49-70f74849b60a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ozon.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ozon.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665820771320	Marionette	INFO	Stopped listening on port 53854
+ppData\\Local\\Temp\\rust_mozprofileEcevRV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54502/devtools/browser/48dc3629-f4cd-4c4b-b0f8-1b5edf982027
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ozon.ru."
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967322/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:561:49\n", "resource://devtools/shared/protocol/Front.js", 107))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1664"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1664:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:779:28
+initialize/<@resource://devtools/server/actors/targets/window-global.js:348:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1664, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 422"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:422:5
+form@resource://devtools/server/actors/source.js:205:1
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2047:24
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 422, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'thread's method 'isAttached'" "JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 381))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1712: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 381: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665820766630	Marionette	INFO	Stopped listening on port 54507
+1665821487743	geckodriver	INFO	Listening on 127.0.0.1:54949
+1665821490836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54950" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile7qCBSA"
+1665821491233	Marionette	INFO	Marionette enabled
+1665821491238	Marionette	INFO	Listening on port 54955
+WebDriver BiDi listening on ws://127.0.0.1:54950
+1665821491571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile7qCBSA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54950/devtools/browser/a8f6436b-31ae-4234-b501-29cd0a8865d0
+1665821501019	Marionette	INFO	Stopped listening on port 54955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665823260042	geckodriver	INFO	Listening on 127.0.0.1:55675
+1665823263100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55676" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileKLQyRG"
+1665823263472	Marionette	INFO	Marionette enabled
+1665823263476	Marionette	INFO	Listening on port 55681
+WebDriver BiDi listening on ws://127.0.0.1:55676
+1665823263719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileKLQyRG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55676/devtools/browser/679e48c9-a3af-4832-b6ff-aa212f84712a
+JavaScript error: , line 0: uncaught exception: Object
+1665823523175	Marionette	INFO	Stopped listening on port 55681
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55808" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileleSVGr"
+1665823336150	Marionette	INFO	Marionette enabled
+1665823336154	Marionette	INFO	Listening on port 55813
+WebDriver BiDi listening on ws://127.0.0.1:55808
+1665823336417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileleSVGr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55808/devtools/browser/7bc0d8dd-c7f5-450a-beb8-ac4769c01fcd
+1665823346603	Marionette	INFO	Stopped listening on port 55813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665823404187	geckodriver	INFO	Listening on 127.0.0.1:55956
+1665823407218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55957" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileDy8pGb"
+1665823407534	Marionette	INFO	Marionette enabled
+1665823407538	Marionette	INFO	Listening on port 55963
+WebDriver BiDi listening on ws://127.0.0.1:55957
+1665823407792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileDy8pGb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55957/devtools/browser/01ffcb15-25b9-4b1f-aca1-61dd1ce88612
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ozon.ru."
+1665823415936	Marionette	INFO	Stopped listening on port 55963
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665823430762	geckodriver	INFO	Listening on 127.0.0.1:56090
+1665823433819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56091" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilehJMVMH"
+1665823434150	Marionette	INFO	Marionette enabled
+1665823434153	Marionette	INFO	Listening on port 56096
+WebDriver BiDi listening on ws://127.0.0.1:56091
+1665823434404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilehJMVMH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56091/devtools/browser/54526293-de83-4957-a727-8fd805ec15fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ozon.ru."
+1665823515287	Marionette	INFO	Stopped listening on port 56096
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665935360048	geckodriver	INFO	Listening on 127.0.0.1:64319
+1665935363125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64320" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileQC8shM"
+1665935363648	Marionette	INFO	Marionette enabled
+1665935363654	Marionette	INFO	Listening on port 64325
+WebDriver BiDi listening on ws://127.0.0.1:64320
+1665935364259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileQC8shM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64320/devtools/browser/0d72a182-ff10-45ba-a564-bb9820b59fe4
+1665936191816	Marionette	INFO	Stopped listening on port 64325
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667937052780	geckodriver	INFO	Listening on 127.0.0.1:65532
+1667937055853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65533" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilexBuUgU"
+1667937056386	Marionette	INFO	Marionette enabled
+1667937056392	Marionette	INFO	Listening on port 49155
+WebDriver BiDi listening on ws://127.0.0.1:65533
+1667937057038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilexBuUgU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65533/devtools/browser/9a530b5e-440b-4d7b-b82c-29d43017a06e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1667937081814	Marionette	INFO	Stopped listening on port 49155
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
